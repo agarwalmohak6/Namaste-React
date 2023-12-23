@@ -33,7 +33,7 @@ const HeadingComponent = () => (
     <Title />
     {heading}
     <h1 className="head">Namste React Functional Component</h1>
-    {100+200}
+    {100 + 200}
   </div>
 );
 const Title = () => {
